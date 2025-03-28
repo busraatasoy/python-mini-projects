@@ -1,6 +1,6 @@
 # 📂 Number Controller
 
-This folder contains the code script used for the **Number Controller** project.  
+📌This folder contains the code script used for the **Number Controller** project.  
 
 # 🎯 **Project Purpose**
 The goal is to find out whether the number the user wants to check is odd or even.
