@@ -1,6 +1,6 @@
 # 📂 Heads and Tails Program
 
-This folder contains the code script used for the **Heads and Tails Program** project.  
+📌This folder contains the code script used for the **Heads and Tails Program** project.  
 
 # 🎯 **Project Purpose**
 The goal is to simulates heads and tails. When the user runs the program, a random selection is made and either “Heads” or “Tails” is printed on the screen.
