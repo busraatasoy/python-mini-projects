@@ -1,6 +1,6 @@
 # 📂 Banker Roulette Game
 
-This folder contains the code script used for the **Banker Roulette Game** project.  
+📌This folder contains the code script used for the **Banker Roulette Game** project.  
 
 # 🎯 **Project Purpose**
 - The goal is to simulate a situation at a restaurant where a group of friends places their credit cards on the table, and the waiter randomly selects one card.
